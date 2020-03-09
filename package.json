@@ -28,6 +28,6 @@
     "lodash": "^4.17.13",
     "vue-color": "^2.4.6",
     "vuejs-auto-complete": "^0.6.5",
-    "yarn": "^1.6.0"
+    "yarn": "^1.22.0"
   }
 }
